@@ -11,6 +11,7 @@ Il contient **uniquement** les images fixes du gabarit email de la newsletter GE
 | `get17-fleche-sombre-v1.png` | Flèche du bouton du hero | 32 × 32 | 16 × 16 |
 | `get17-fleche-blanche-v1.png` | Flèche des boutons foncés | 32 × 32 | 16 × 16 |
 | `get17-ampoule-v1.png` | Étiquette « L'astuce » | 32 × 32 | 16 × 16 |
+| `get17-ampoule-claire-v1.png` | Étiquette « L'astuce » sur fond sombre (teal clair `#7FD1CE`) | 32 × 32 | 16 × 16 |
 
 ## Règles
 
